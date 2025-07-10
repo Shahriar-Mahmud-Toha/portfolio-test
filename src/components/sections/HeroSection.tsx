@@ -79,7 +79,7 @@ const HeroSection = () => {
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ duration: 0.8, delay: 0.2 }}
                 >
-                    <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-primary shadow-xl">
+                    {/* <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-primary shadow-xl">
                         <Image
                             src="/logo.jpg"
                             alt="Md. Shahriar Mahmud"
@@ -87,7 +87,7 @@ const HeroSection = () => {
                             style={{ objectFit: 'cover' }}
                             priority
                         />
-                    </div>
+                    </div> */}
                 </motion.div>
             </div>
 
