@@ -6,13 +6,13 @@ import Footer from '@/components/layout/Footer';
 // import SkillsSection from '@/components/sections/SkillsSection';
 // import ContactSection from '@/components/sections/ContactSection';
 import ScrollToTop from '@/components/ui/ScrollToTop';
-import HeroSectionV2 from '@/components/sections/HeroSectionV2';
+import HeroSectionV3 from '@/components/sections/HeroSectionV3';
 
 export default function Home() {
   return (
     <main>
       <Navbar />
-      <HeroSectionV2 />
+      <HeroSectionV3 />
       {/* <AboutSection />
       <ExperienceSection />
       <ProjectsSection />
